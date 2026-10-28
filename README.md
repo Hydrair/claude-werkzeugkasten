@@ -39,3 +39,9 @@ Prüfen:
 claude plugin validate plugins/prompt-kompass
 claude plugin validate .
 ```
+
+## Herkunft und Lizenz
+
+`razor-hush` (Skill und Output-Style **Hush**) stammt aus [V-Songbird/flint](https://github.com/V-Songbird/flint) von Victor Villegas, MIT-Lizenz, siehe [`plugins/razor-hush/LICENSE`](plugins/razor-hush/LICENSE). `hush.md` ist die ältere Fassung, die flint inzwischen als `output-styles/hush-deprecated.md` führt. Die aktuelle Fassung gibt es als eigenes Plugin [V-Songbird/hush](https://github.com/V-Songbird/hush).
+
+Alles andere steht unter der MIT-Lizenz in [`LICENSE`](LICENSE).

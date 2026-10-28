@@ -2,5 +2,6 @@
   "name": "razor-hush",
   "version": "0.2.0",
   "description": "Skill + Output-Style: kleinste Änderung zuerst, still arbeiten, einmal am Ende berichten",
-  "outputStyles": "./output-styles/"
+  "outputStyles": "./output-styles/",
+  "license": "MIT"
 }
