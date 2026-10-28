@@ -1,0 +1,6 @@
+{
+  "name": "prompt-kompass",
+  "version": "0.2.0",
+  "description": "Prompts farbig abgesetzt, Tool-Zeilen ausgeblendet, Sprung zum letzten Prompt per Button",
+  "types": "./types/index.d.ts"
+}

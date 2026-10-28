@@ -1,0 +1,16 @@
+{
+  "name": "claude-werkzeugkasten",
+  "owner": { "name": "m.kainz" },
+  "plugins": [
+    {
+      "name": "prompt-kompass",
+      "source": "./plugins/prompt-kompass",
+      "description": "Prompts farbig abgesetzt, Tool-Zeilen ausgeblendet, Sprung zum letzten Prompt und Prompt-Liste per Button"
+    },
+    {
+      "name": "razor-hush",
+      "source": "./plugins/razor-hush",
+      "description": "Skill + Output-Style: kleinste Änderung zuerst, still arbeiten, einmal am Ende berichten"
+    }
+  ]
+}
